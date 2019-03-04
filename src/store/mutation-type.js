@@ -1,0 +1,2 @@
+export const SET_SONGSLIST = 'SET_SONGSLIST';
+export const SET_AUDIOLIST = 'SET_AUDIOLIST';
